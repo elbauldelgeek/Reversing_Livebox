@@ -1,0 +1,38 @@
+Changelog firmware Livebox Fibra Arcadyan prv3399b-b-lt (datos conocidos)
+
+
+
+AR_LBFIBRA_sp-00.03.04.091(Mon Sep 12 19:20:19 2016)
+
+Version release 
+
+AR_LBFIBRA_sp-00.03.04.104(Fri Feb 24 17:09:45 2017)
+
+Se corrige un bug que permitia acceso root al directorio root del Router por SMB y GUI WEB
+
+(metodo usado para extraer los Datos SIP del router)
+
+AR_LBFIBRA_sp-00.03.04.112(Wed Apr 12 21:43:45 2017)
+
+
+
+AR_LBFIBRA_sp-00.03.04.112S(Thu Aug 31 17:59:39 2017)
+
+Soluciona un error critico de la version AR_LBFIBRA_sp-00.03.04.112 que hacia que no funcionara la VOIP.
+
+AR_LBFIBRA_sp-00.03.05.211(Thu Feb 22 15:53:24 2018)
+
+-Resuelve varias vulnerabilidades criticas de seguridad.
+
+    Unauthenticated configuration information leak
+    Hard-coded credentials
+    Memory leak
+    Stack buffer Overflow
+
+AR_LBFIBRA_sp-00.03.05.211D(Wed Jun 20 17:04:34 2018)
+
+Se soluciona un error critico de estabilidad WIFI de la version AR_LBFIBRA_sp-00.03.05.211
+
+AR_LBFIBRA_sp-00.03.05.215C(Tue Jan 29 18:51:00 2019)
+
+AR_LBFIBRA_sp-00.03.05.217G(Fri Oct 25 18:12:59 2019)
