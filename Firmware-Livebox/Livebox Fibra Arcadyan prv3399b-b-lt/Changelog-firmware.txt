@@ -36,3 +36,5 @@ Se soluciona un error critico de estabilidad WIFI de la version AR_LBFIBRA_sp-00
 AR_LBFIBRA_sp-00.03.05.215C(Tue Jan 29 18:51:00 2019)
 
 AR_LBFIBRA_sp-00.03.05.217G(Fri Oct 25 18:12:59 2019)
+
+-Se desactiva el boton fisico para desactivar y activar el WIFI.
