@@ -1,9 +1,11 @@
 Descripción del Hardware
 
-    Procesador MIPS-32 Dual Core 600 MHz
-    Memoria NAND FLASH de 128MB y DDRAM de 256MB
+    Procesador BCM68380 MIPS-32 Dual Core 600 MHz
+    Memoria NAND FLASH de 128MB TSOP I 48 TOSHIBA TC58BVG0S3HTA00
+    Memoria DRAM de 256MB
     Modo operacional : FTTH con ONT integrada (conexión directa a PTR-O)
     4 puertos LAN Gigabit Ethernet (GE) RJ45
+	-2x Modulos 100/1000 BASE-T UTG48C01 DUAL PORT MAGNETICS
     2 puertos (FXS) RJ11 para Telefonía
     1 puertos USB 2.0 maestro (tipo A) de alta potencia  (1A)
     Wi-Fi Doble Banda  11ac MU-MIMO 4x4, 11n MIMO 2x2
