@@ -1,5 +1,7 @@
 # Descripción del Hardware
 
+- Hardware
+
     - Procesador BCM68380 MIPS-32 Dual Core 600 MHz
     - Memoria NAND FLASH de 128MB TSOP I 48 TOSHIBA TC58BVG0S3HTA00
     - Memoria DRAM de 256MB
@@ -10,7 +12,7 @@
     - 1 puertos USB 2.0 maestro (tipo A) de alta potencia  (1A)
     - Wi-Fi Doble Banda  11ac MU-MIMO 4x4, 11n MIMO 2x2
 
-Servicios soportados
+- Servicios soportados
 
     - Internet
     - Orange TV
@@ -18,7 +20,7 @@ Servicios soportados
     - UPnP y DNS dinámico
     - Compatible con DLNA
 
-Especificaciones Wi-FI
+- Especificaciones Wi-FI
 
     - Banda de 2.4 GHz:
         - 802.11b/g/n MIMO 2x2 (2 antenas) hasta 300 Mbps
