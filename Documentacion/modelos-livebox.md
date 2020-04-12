@@ -26,9 +26,9 @@
 
   -Modelo: Arcadyan PRV3399B-LT
 
-  -Modelo: Sagecom F@st 5656 ( modelo descontinuado)#
+  -Modelo: Sagecom F@st 5656 ( modelo descontinuado)
 
 
-- Livebox +(clientes NEBA) Lanzado en 2017
+- Livebox + (clientes NEBA) Lanzado en 2017
 
   -Modelo: Arcadyan PRV3397B-E-LT
