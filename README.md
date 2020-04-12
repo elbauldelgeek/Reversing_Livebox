@@ -20,4 +20,4 @@ Este proyecto tiene los siguientes objetivos.
 
 # Nota legal
 
-- Los ficheros y informacion aqui espuesta se encuentra publica en internet o han sido obtenidos mediante dispositivos en mi propiedad y comprados en diversas tiendas online.
+- Los ficheros y informacion aqui espuesta se encuentran  de forma publica en internet o han sido obtenidos mediante dispositivos en mi propiedad y comprados en diversas tiendas online.
