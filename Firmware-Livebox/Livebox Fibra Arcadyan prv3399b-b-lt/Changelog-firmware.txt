@@ -1,5 +1,9 @@
 Changelog firmware Livebox Fibra Arcadyan prv3399b-b-lt (datos conocidos)
 
+AR_LBFIBRA_sp-00.03.03.013-ES ( version de homologacion)
+
+Kernel linux: 3.4.11-RT19
+
 AR_LBFIBRA_sp-00.03.04.091(Mon Sep 12 19:20:19 2016)
 
 Version release 
