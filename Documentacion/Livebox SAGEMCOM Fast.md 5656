@@ -1,0 +1,9 @@
+Intentado extraer los datos SIP o la descontinuada app de softphone, uniendo información previa:
+ · El lado del novato - https://elladodelnovato.blogspot.com/2017/09/full-remote-control-livebox-fibra.html
+ · El baul del geek - https://www.elbauldelgeek.com/2018/02/04/fibra-orange-extraer-sip-livebox-fibra/
+ 
+Es posible el acceso directo a la API de los equipos SAGEMCOM, probado con Livebox f@st 5656 (SG_LBFIBRA_sip-sp-02.14.75.009) 
+con el usuario "UsrAdmin" y la contraseña de acceso al router (siendo la IP por defecto):
+
+http://192.168.1.1/API/Capabilities
+http://192.168.1.1/API/1.0/VoIP/SIP
